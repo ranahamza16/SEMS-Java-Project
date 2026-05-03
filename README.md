@@ -65,4 +65,6 @@ src/main/java/com/sems/
 ```
 
 ## Demo Video
-[Video link here]
+[
+https://drive.google.com/file/d/1lsrxbiEA800bQAeo-GrbZG6Ir64XRANj/view?usp=sharing
+]
