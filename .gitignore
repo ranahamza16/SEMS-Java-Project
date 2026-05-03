@@ -1,0 +1,19 @@
+# Compiled output
+target/
+
+# Downloaded tools and zip files (Do not push these, they are too large)
+tools/
+maven.zip
+
+# IDE specific files
+.idea/
+*.iml
+.vscode/
+*.eclipse
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
